@@ -13,7 +13,8 @@ Crear una skill personalitzada per Claude, que són unes instruccions que Claude
 ## Procediment
 
 1. Activar l'execució de codi a Configuració.
-   *(captura)*
+
+   ![Activar l'execució de codi](media/code_execution.png)
 2. Crear una carpeta amb el nom de la skill, per exemple `actes-reunio`.
 3. Dins la carpeta, crear un fitxer `SKILL.md` amb això:
 
@@ -30,9 +31,15 @@ Crear una skill personalitzada per Claude, que són unes instruccions que Claude
 
 4. Comprimir la carpeta en ZIP.
 5. Anar a Configuració → Skills i pujar el ZIP.
-   *(captura)*
+
+   ![Botó per pujar una skill](media/upload_skill.png)
+
+   ![Pujar el fitxer ZIP de la skill](media/upload_skill2.png)
 6. Activar la skill i provar-la en un xat nou.
-   *(captura)*
+
+   ![Cridar la skill en un xat nou](media/skill_test.png)
+
+   ![Resultat de la skill](media/skill_test2.png)
 
 ## Comprovacions
 
